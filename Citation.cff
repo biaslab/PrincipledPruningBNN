@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "Please cite this research as below."
+authors:
+- family-names: "Beckers"
+  given-names: "Jim"
+- family-names: "van Erp"
+  given-names: "Bart"
+  orcid: "https://orcid.org/0000-0002-5619-7071"
+- family-names: "Zhao"
+  given-names: "Ziyue"
+- family-names: "Kondrashov"
+  given-names: "Kirill"
+- family-names: "de Vries"
+  given-names: "Bert"
+title: "Principled Pruning of Bayesian Neural Networks through Variational Free Energy Minimization"
+url: "https://github.com/biaslab/PrincipledPruningBNN"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Beckers"
+    given-names: "Jim"
+  - family-names: "van Erp"
+    given-names: "Bart"
+    orcid: "https://orcid.org/0000-0002-5619-7071"
+  - family-names: "Zhao"
+    given-names: "Ziyue"
+  - family-names: "Kondrashov"
+    given-names: "Kirill"
+  - family-names: "de Vries"
+    given-names: "Bert"
+  doi: "10.48550/arXiv.2210.09134"
+  journal: "arXiv"
+  title: "Principled Pruning of Bayesian Neural Networks through Variational Free Energy Minimization"
+  year: 2022
+  month: 10
+  volume: 2
